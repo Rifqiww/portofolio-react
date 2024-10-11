@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portofolio-react/static/css/main.8dace8cf.css",
+    "main.js": "/portofolio-react/static/js/main.b951675d.js",
+    "static/js/453.6a54098e.chunk.js": "/portofolio-react/static/js/453.6a54098e.chunk.js",
+    "static/media/porto3.png": "/portofolio-react/static/media/porto3.d4dea69b6a690d6422b6.png",
+    "static/media/porto2.png": "/portofolio-react/static/media/porto2.7096447a98de11e655a3.png",
+    "static/media/porto.png": "/portofolio-react/static/media/porto.ad92c297359e35c2524c.png",
+    "static/media/pfp.jpg": "/portofolio-react/static/media/pfp.f4c46c5d1c1460c1cb18.jpg",
+    "static/media/cover.jpg": "/portofolio-react/static/media/cover.924cfd845c50fe3223d4.jpg",
+    "index.html": "/portofolio-react/index.html",
+    "main.8dace8cf.css.map": "/portofolio-react/static/css/main.8dace8cf.css.map",
+    "main.b951675d.js.map": "/portofolio-react/static/js/main.b951675d.js.map",
+    "453.6a54098e.chunk.js.map": "/portofolio-react/static/js/453.6a54098e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dace8cf.css",
+    "static/js/main.b951675d.js"
+  ]
+}
